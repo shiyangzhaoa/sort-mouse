@@ -101,7 +101,7 @@
       //找到mousedown的item
       let selectIndex;
       dragObj = event.target;
-      [...itemDomList].forEach((v, i) => {
+      Array.from(itemDomList).forEach((v, i) => {
         if (v === event.target) {
           selectIndex = i;
         }
