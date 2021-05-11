@@ -1,5 +1,5 @@
 # sort-mouse
 
-IE 浏览器下不能正常工作，部分 API 可能比较 “超前”
+哔哩哔哩主题列表 [哔哩哔哩](bilibili.com)
 
 [拖动排序](https://shiyangzhaoa.github.io/sort-mouse/)
